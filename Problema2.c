@@ -1,4 +1,5 @@
 /*Fernando Covarrubias Romero
+Problemas Simples
 Área y circunferencia de un círculo*/
 
     #include <stdio.h>
