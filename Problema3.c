@@ -6,7 +6,7 @@ Conversión de dólares a pesos*/
 
   int main() 
   {
-      float dolar, pesos;
+      float dolar, pesos=0;
       printf("Ingrese la cantidad en dolares: ");
       scanf("%f", &dolar);
     
