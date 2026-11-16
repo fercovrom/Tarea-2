@@ -1,4 +1,5 @@
 /*Fernando Covarrubias Romero
+Problemas Simples
 Conversión de dólares a pesos*/
 
   #include <stdio.h>
