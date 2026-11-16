@@ -6,15 +6,15 @@
 
     int main() 
     {
-        float radio, area, circunferencia;
+        float radio, area, circ;
         printf("Ingrese el radio del circulo: ");
         scanf("%f", &radio);
         
         area = PI * radio * radio;
-        circunferencia = 2 * PI * radio;
+        circ = 2 * PI * radio;
     
         printf("Area: %.2f\n", area);
-        printf("Circunferencia: %.2f\n", circunferencia);
+        printf("Circunferencia: %.2f\n", circ);
     
         return 0;
     }
