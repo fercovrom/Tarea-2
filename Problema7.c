@@ -16,7 +16,7 @@ int main() {
     distanciatotal = distanciaida * 2;
     preciototal = distanciatotal * 0.23;
     
-    if (diasestancia > 7 && distanciatotal > 800.0) 
+    if (diasestancia > 7 & distanciatotal > 800.0) 
     {
         descuento = preciototal * 0.30;
         preciototal = preciototal - descuento;
