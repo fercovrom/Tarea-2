@@ -6,7 +6,7 @@ Monto de dinero al finalizar el mes*/
 
   int main() 
   {
-      float dinero, interes1 , interes2 , montoFinal;
+      float dinero, interes1 , interes2=0 , montoFinal;
       printf("Ingrese la cantidad de dinero invertida:");
       scanf("%f", &dinero);
       printf("Ingrese la tasa de interes mensual(el porcentaje de interes): ");
