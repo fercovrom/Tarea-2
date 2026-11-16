@@ -1,4 +1,5 @@
 /*Fernando Covarrubias Romero
+Problemas Simples
 Suma, resta y multiplicación de dos números*/
 
   #include <stdio.h>
